@@ -1,0 +1,7 @@
+streamlit
+pandas
+sentence-transformers
+spacy
+scispacy
+duckduckgo-search
+ollama

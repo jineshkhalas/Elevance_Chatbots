@@ -1,0 +1,8 @@
+chroma_db/
+*.sqlite3
+
+all_cs_papers.csv
+all_cs_papers_strict.csv
+
+__pycache__/
+*.pyc
